@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="git-localconfig">
+    <output-path>$PROJECT_DIR$/out/artifacts/git_localconfig</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/git-localconfig-repo" />
+    </root>
+  </artifact>
+</component>
